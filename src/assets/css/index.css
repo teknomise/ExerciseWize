@@ -1,0 +1,66 @@
+/* @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap'); */
+html body {
+  font-family: 'EB Garamond', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+}
+
+.main{
+  width: 390px;
+  height: 844px;
+  margin: auto;
+}
+
+.loading-animation{
+  width: 100%;
+  height: 400px;
+}
+
+.illustration-icon {
+  position: relative;
+  width: 128px;
+  height: 143.49px;
+}
+.logo-icon {
+  width: 122.1px;
+  height: 39.79px;
+}
+.brand-statement,
+.logo-icon {
+  position: relative;
+  color: #0A457B;
+
+}
+.brand-container,
+.logo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.brand-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  gap: 16px;
+}
+.your-weather-will {
+  position: relative;
+  font-weight: 300;
+  font-size: 18px;
+}
+.information-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: 16px;
+  color:#0A457B80;
+  margin-bottom: 40px;
+
+}
