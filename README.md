@@ -34,4 +34,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 # Todo List
 
 1. Modify Lottie Animation to fit full width
-2. Modify Font style
+2. Modify Font style with Reset CSS 
